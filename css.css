@@ -1,0 +1,23 @@
+* {
+    border: 0ch;
+
+}
+body{
+background-color: 	#FAEBD7;
+}
+.titulo{
+color: red;
+text-align: center;
+font-family: Verdana, sans-serif;
+}
+.listas{
+color:blue;
+text-align: center;
+font-family: sans-serif;
+}
+
+#paragrafo{ 
+color: red;
+text-align: center;
+font-family: sans-serif;
+}
